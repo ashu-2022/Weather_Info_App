@@ -1,0 +1,3 @@
+when we set DEBUG = FALSE
+then Django not search static files in apps 
+then we have to specify root directory
