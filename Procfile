@@ -1,1 +1,1 @@
-web: gunicorn WeatherDashboard.wsgi
+web: python manage.py collectstatic --no-input; gunicorn WeatherDashboard.wsgi --log-file - --log-level debug
