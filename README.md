@@ -7,3 +7,8 @@ Build a weather web application using Django using
 * BOOTSTRAP
 
 ## Live : https://myweather-info.herokuapp.com/
+
+# Feature 
+* Use Open Weather API
+* Display search city weather information
+* show Recent 5 search Result in History
